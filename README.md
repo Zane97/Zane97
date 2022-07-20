@@ -3,10 +3,10 @@
 </div>
 
 <div id="links" align="center">
-  <a href="linkedin.com/in/zane-jansen-van-vuuren-a0a351177">
+  <a href="https://linkedin.com/in/zane-jansen-van-vuuren-a0a351177">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="instagram.com/zane_jvv/">
+  <a href="https://instagram.com/zane_jvv/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
 </div>
