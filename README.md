@@ -24,9 +24,9 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane97&theme=radical" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane97&theme=radical"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zane97&show_icons=true&theme=radical" width="30%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zane97&show_icons=true&theme=radical"/>
 
 
 
