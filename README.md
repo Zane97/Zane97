@@ -24,6 +24,15 @@
 
 ---
 
+<div id="topLang" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zane97&theme=radical" width="30%"/>
+
+<div id="stat" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zane97&show_icons=true&theme=radical" width="30%"/>
+  gdg dfg dfg dfg
+</div>
+
+
 
 <!---
 Zane97/Zane97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
